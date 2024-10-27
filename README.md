@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?Sudhanshu248=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-<h1>🏆 GSSoC'24-Extd Digital Badges</h1>
+<h1>🏆 GSSoC'24-Extd Digital Badges: </h1>
 <table>
           <tr align="center" >
                      <td style= "width=auto">
