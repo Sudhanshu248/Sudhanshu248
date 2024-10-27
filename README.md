@@ -18,54 +18,49 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?Sudhanshu248=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+
+<h1>🏆 GSSoC'24-Extd Digital Badges</h1>
 <table>
-          <tr align="center">
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
-              <br>
-              <strong>Explorer Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
-              <br>
-              <strong>Adventurer Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
-              <br>
-              <strong>Champion Badge</strong>
-            </td>
-            <td style="padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
-              <br>
-              <strong>Trailblazer Badge</strong>
-            </td>
+          <tr align="center" >
+                     <td style= "width=auto">
+                                  <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Explorer__Badge.png" alt="Explorer Badge" width="80">
+                                  <br>
+                                  <strong>Explorer Badge</strong>
+                      </td>
+                       <td style= "width=auto">
+                                  <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Adventurer__Badge.png" alt="Adventurer Badge" width="80">
+                                  <br>
+                                  <strong>Adventurer Badge</strong>
+                      </td>
+                     <td style= "width=auto">
+                                  <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Trailblazer__Badge.png" alt="Trailblazer Badge" width="80">
+                                  <br>
+                                  <strong>Trailblazer Badge</strong>
+                      </td>
+                       <td style= "width=auto">
+                                  <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Summit__Seeker__Badge.png" alt="Summit Seeker Badge" width="80">
+                                  <br>
+                                  <strong>Summit Seeker Badge</strong>
+                      </td>
+                       <td style= "width=auto">
+                                  <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Champion__Badge.png" alt="Champion Badge" width="80">
+                                  <br>
+                                  <strong>Champion Badge</strong>
+                      </td>
           </tr>
-          <tr align="center">
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
-              <br>
-              <strong>Summit Seeker Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
-              <br>
-              <strong>Innovator Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
-              <br>
-              <strong>Conqueror Badge</strong>
-            </td>
-            <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
-              <br>
-              <strong>API Student Expert</strong>
-              <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
-            </td>
+          <tr align="center" >
+                   <td style= "width=auto">
+                              <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Git Explorer.jpeg" alt="Git Explorer Badge" width="80">
+                              <br>
+                              <strong>Git Explorer Badge</strong>
+                    </td>
+                    <td style= "width=auto">
+                              <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Pull Expert.jpeg" alt="Pull Expert Badge" width="80">
+                              <br>
+                              <strong>Pull Expert Badge</strong>                              
+                    </td>
           </tr>
-        </table>
+ </table>
 
 <h1>🏆 Hacktoberfest Digital Badges: </h1>:
 
