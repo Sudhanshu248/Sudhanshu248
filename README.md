@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?Sudhanshu248=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-🏆 Digital Badges:
+🏆 <h1>Hacktoberfest Digital Badges: </h1>:
 
 [![An image of @sudhanshu248's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu248)](https://holopin.io/@sudhanshu248)
