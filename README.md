@@ -35,6 +35,28 @@ Here are some ideas to get you started:
 
 ###
 
+<br>
+<h3> Languages, Tools and Technologies 🚀 </h3>
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c,javascript&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Technical Skills</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=bootstrap" ></td>
+</tr>
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"></td>
+</tr>
+</table>
+<br>
+
 <h1>🏆 GSSoC'24-Extd Digital Badges: </h1>
 <table>
           <caption >Girl Script Summer of Code-2024 Extended</caption>
