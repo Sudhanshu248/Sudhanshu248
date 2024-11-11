@@ -32,7 +32,9 @@ Here are some ideas to get you started:
   <a href="mailto:sainisudhanshu389@gmail.com " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.leetcode.com/sudhanshusaini_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudhanshusaini_24" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/sudhanshusaini_24 " target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="34" alt="leetcode logo"  />
+  </a>
 </div>
 
 ###
