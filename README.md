@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?Sudhanshu248=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu248&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="sudhanshu248" width="140px" /> </p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
