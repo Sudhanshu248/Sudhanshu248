@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer)](https://git.io/typing-svg)
 
  <h1>About Me:</h1>
+ <!--
 I am Al-Amin, a recent graduate and tech enthusiast with a passion for software development. I am constantly exploring new technologies and embracing challenges, thriving in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue excellence. Let's create innovative solutions together!
-<br><br><br>
+<br><br><br>-->
 
 - 🌱 I’m currently learning: Full Stack Web Development from Apna College.
 - 😄 Pronouns: (He/Him)
