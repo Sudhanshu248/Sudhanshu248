@@ -1,23 +1,24 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer)](https://git.io/typing-svg)
 
+ <h1>About Me:</h1>
+I am Al-Amin, a recent graduate and tech enthusiast with a passion for software development. I am constantly exploring new technologies and embracing challenges, thriving in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue excellence. Let's create innovative solutions together!
+<br><br><br>
+
+- 🌱 I’m currently learning: Full Stack Web Development from Apna College.
+- 😄 Pronouns: (He/Him)
+- 👯 I’m looking to collaborate on Front-End Web-Development Projects.
+- 📫 How to reach me:  <a href="mailto:sainisudhanshu389@gmail.com " target="_blank">Mail Me</a> Or Connect on  <a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">Linked  In</a>
+- 💬 Ask me about Web Development.
+
 <!--
 **Sudhanshu248/Sudhanshu248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![trophy](https://github-profile-trophy.vercel.app/Sudhanshu248-ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?Sudhanshu248=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+-- ⚡ Fun fact: ...
 -->
 
 <div align="center">
