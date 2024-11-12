@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer)](https://git.io/typing-svg)
 
 <!--
 **Sudhanshu248/Sudhanshu248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
