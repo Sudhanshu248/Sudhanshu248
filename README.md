@@ -17,12 +17,13 @@
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer)](https://git.io/typing-svg)
+
 
 
  <h1> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35px"> About Me: </h1>
  <span align="right" position="fixed">
  	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="250px"/> 
+	 <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer" align="right" position="absolute" right="10px">
 </span>
  <!--
 I am Al-Amin, a recent graduate and tech enthusiast with a passion for software development. I am constantly exploring new technologies and embracing challenges, thriving in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue excellence. Let's create innovative solutions together!
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-
+<br><br><br>
 
 
 ###
