@@ -122,6 +122,14 @@ Here are some ideas to get you started:
                       </td>
           </tr>
           <tr align="center" >
+		  <td style= "width=auto">
+                              <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/<td style= "width=auto">
+                              <br>
+                              <strong>Pull Expert Badge</strong>                              
+                    </td>.jpeg" alt="Pull Expert Badge" width="80">
+                              <br>
+                              <strong>Postman Badge</strong>                              
+                    </td>
                    <td style= "width=auto">
                               <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Git Explorer.jpeg" alt="Git Explorer Badge" width="80">
                               <br>
