@@ -115,18 +115,15 @@ Here are some ideas to get you started:
                                   <br>
                                   <strong>Summit Seeker Badge</strong>
                       </td>
-                       <td style= "width=auto">
+          </tr>
+          <tr align="center" >
+		  <td style= "width=auto">
                                   <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Champion__Badge.png" alt="Champion Badge" width="80">
                                   <br>
                                   <strong>Champion Badge</strong>
                       </td>
-          </tr>
-          <tr align="center" >
 		  <td style= "width=auto">
-                              <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/<td style= "width=auto">
-                              <br>
-                              <strong>Pull Expert Badge</strong>                              
-                    </td>.jpeg" alt="Pull Expert Badge" width="80">
+                              <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Postman - Postman API Fundamentals Student Expert - 2024-10-31.png" alt="Postman Badge" width="80">
                               <br>
                               <strong>Postman Badge</strong>                              
                     </td>
