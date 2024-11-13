@@ -17,11 +17,6 @@
   </a>
 </div>
 
-<div align="center">
-<!-- <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250px"/>  -->
- 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="250px"/> 
-<!-- 	<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="250px"/> -->
-</div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer)](https://git.io/typing-svg)
@@ -29,6 +24,9 @@
 
 
  <h1> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35px"> About Me: </h1>
+ <span align="left">
+ 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="250px"/> 
+</span>
  <!--
 I am Al-Amin, a recent graduate and tech enthusiast with a passion for software development. I am constantly exploring new technologies and embracing challenges, thriving in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue excellence. Let's create innovative solutions together!
 <br><br><br>-->
