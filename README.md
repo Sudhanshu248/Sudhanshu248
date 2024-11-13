@@ -17,7 +17,16 @@
   </a>
 </div>
 
+<div align="center">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250px"/>  -->
+ 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="250px"/> 
+<!-- 	<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="250px"/> -->
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer)](https://git.io/typing-svg)
+
+
 
  <h1> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35px"> About Me: </h1>
  <!--
@@ -40,13 +49,7 @@ Here are some ideas to get you started:
 -- ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250px"/> 
- 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="250px"/> 
-	<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="250px"/>
-</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu248&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="sudhanshu248" width="140px" /> </p>
 
 
 
@@ -91,7 +94,7 @@ Here are some ideas to get you started:
 
 ###
 
-
+<br>
 
 <h1>🏅 GSSoC'24-Extd Digital Badges: </h1>
 <table>
@@ -142,6 +145,13 @@ Here are some ideas to get you started:
           </tr>
  </table>
 
+ <br>
+
 <h1>🏅 Hacktoberfest Digital Badges: </h1>
 
 [![An image of @sudhanshu248's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu248)](https://holopin.io/@sudhanshu248)
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu248&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="sudhanshu248" width="140px" /> </p>
+
