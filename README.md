@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ###
 <br>
-<h1> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies: </h1>
+<h1> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies : </h1>
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </table>
 <br>
 
-<h1> 📈 Github Stats:</h1>
+<h1> 📈 Github Stats :</h1>
 <div align="center">
   <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudhanshu248&theme=tokyonight">
   <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudhanshu248&theme=tokyonight">
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h1>🏅 GSSoC'24-Extd Digital Badges: </h1>
+<h1>🏅 GSSoC'24-Extd Digital Badges : </h1>
 <table>
 	<caption >Girl Script Summer of Code-2024 Extended</caption>
 		<tr align="center" >
@@ -147,7 +147,7 @@ Here are some ideas to get you started:
 
  <br>
 
-<h1>🏅 Hacktoberfest Digital Badges: </h1>
+<h1>🏅 Hacktoberfest Digital Badges : </h1>
 
 [![An image of @sudhanshu248's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu248)](https://holopin.io/@sudhanshu248)
 
