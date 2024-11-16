@@ -1,6 +1,5 @@
-## <h1 align="center">	<span>Hola  I'm </span>
-<img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1MTYwNjksIm5iZiI6MTczMTUxNTc2OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTEzVDE2MzYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0OWJmMTA0MzVjNTE3YjRiY2EyYTRjMTI4ZWMwNWQ1OWQ2MWYzODIxMzRlOTZlOTY2YjBkMWUyOTA1ZTkzZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.t2Imfz9FOHdf9xOWzrTiY-GapmYdVvYR_S20HGEV_Qg" width="40px">
- <span color="blue">Sudhanshu</span>
+##
+<h1 align="center"> Hola  I'm <span color="blue">Sudhanshu</span>
 </h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">
