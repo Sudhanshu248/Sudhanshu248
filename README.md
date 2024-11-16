@@ -12,7 +12,7 @@
  
  <span align="right" position="absolute">
 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" width="350px" height="250px" /> 
-	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-	Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
  </span>
 
 <p> Hi, I'm Sudhanshu Saini, a Front-End Web Developer. Currently, I am learning Full-Stack Web Development from Apna College. As a passionate contributor to open source, I have 	 
@@ -166,6 +166,4 @@ Here are some ideas to get you started:
 
 <!--Profile Views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu248&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="sudhanshu248" width="140px" /> </p>
-<br>
-
 
