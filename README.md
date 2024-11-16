@@ -1,23 +1,9 @@
 ##
-<h1 align="center"> Hola  I'm <span color="blue">Sudhanshu</span>
+<h1 align="center"> Hola  I'm <span color="blue">Sudhanshu
+	<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px">
+</span>
 </h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/jA9RBjdS" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/Sudhanshu_Saini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="30" alt="telegram logo"  />
-  </a>
-  <a href="mailto:sainisudhanshu389@gmail.com " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.leetcode.com/sudhanshusaini_24 " target="_blank">   
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="25" alt="leetcode logo"  />
-  </a>
-</div>
+
 
  <h1> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35px"> About Me: </h1>
  <span align="right" position="absolute">
@@ -44,7 +30,27 @@ Here are some ideas to get you started:
 -- ⚡ Fun fact: ...
 -->
 
-<br><br>
+<br><br><br>
+
+<h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"> Connect with me :</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/jA9RBjdS" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/Sudhanshu_Saini" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="30" alt="telegram logo"  />
+  </a>
+  <a href="mailto:sainisudhanshu389@gmail.com " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.leetcode.com/sudhanshusaini_24 " target="_blank">   
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="25" alt="leetcode logo"  />
+  </a>
+</div>
+
 
 
 ###
