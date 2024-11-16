@@ -7,7 +7,7 @@
 
  <h1> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35px"> About Me: </h1>
  <span align="right" position="absolute">
- 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" width="350px" height="250px" /> 
+ 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" width="340px" height="250px" /> 
 	 <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
 </span>
 
@@ -50,8 +50,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="25" alt="leetcode logo"  />
   </a>
 </div>
-
-
 
 ###
 <br>
