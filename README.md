@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 <h1>🏅 GSSoC'24-Extd Digital Badges : </h1>
 <table>
-	<caption >Girl Script Summer of Code-2024 Extended</caption>
+	<strong >Girl Script Summer of Code-2024 Extended</strong>
 		<tr align="center" >
                      <td style= "width=auto">
                                   <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Explorer__Badge.png" alt="Explorer Badge" width="80">
