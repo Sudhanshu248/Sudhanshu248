@@ -102,7 +102,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app?username=sudhanshu248&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  /> <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshu248&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false" height="250" alt="activity-graph graph"  />
 </div>
-###
 <br>
 
 
@@ -162,9 +161,11 @@ Here are some ideas to get you started:
 <h1>🏅 Hacktoberfest Digital Badges : </h1>
 
 [![An image of @sudhanshu248's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu248)](https://holopin.io/@sudhanshu248)
-<br>
+<br><br>
 
 
 <!--Profile Views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu248&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="sudhanshu248" width="140px" /> </p>
+<br>
+
 
