@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 		<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>DataBases</strong></td>
+		<td><strong>DataBase Technologies</strong></td>
 		<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 	</tr>
 	<tr>
