@@ -152,7 +152,7 @@ Here are some ideas to get you started:
                                   <strong>Champion Badge</strong>
                         </td>
 		  	<td style= "width=auto">
-                                  <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Postman - Postman API Fundamentals Student Expert - 2024-10-31.png" alt="Postman Badge" 				   width="80">
+                                  <img src="https://github.com/Sudhanshu248/Sudhanshu248/raw/main/Postman - Postman API Fundamentals Student Expert - 2024-10-31.png" alt="Postman Badge" width="80">
                                    <br>
                                    <strong>Postman Badge</strong>                              
                     	</td>
