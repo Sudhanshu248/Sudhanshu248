@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src = "https://skillicons.dev/icons?i=c,javascript&theme=dark"></td>
+		<td><img height=40 src = "https://skillicons.dev/icons?i=c,java,javascript&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Front-End Development</strong></td>
@@ -78,11 +78,11 @@ Here are some ideas to get you started:
 	</tr>
 	<tr>
 		<td><strong>Back-End Development</strong></td>
-		<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs,bootstrap"></td>
+		<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs,bootstrap&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>DataBases</strong></td>
-		<td><img height=40 src = "https://skillicons.dev/icons?i="mongodb,mysql"></td>
+		<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Developer Tools</strong></td>
