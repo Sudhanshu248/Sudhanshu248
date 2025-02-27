@@ -16,8 +16,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Full+Stack+Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
  </span>
 
-<p> Hi, I'm Sudhanshu Saini, a Full Stack Web Developer. As a passionate contributor to open source, I have  actively participated in GSSoC'24-Extended, Hacktoberfest 2024 and SWOC-25. </p>
-<br>
+<p> Hi, I'm Sudhanshu Saini, Full Stack Web Developer. As a passionate contributor to open source, I have actively participated in Open Source Programs like- GSSoC'24-Extended, Hacktoberfest 2024 and SWOC-25. </p>
  
 - 🌱 I’m currently learning: DSA (Java).
 - 😄 Pronouns: (He/Him)
