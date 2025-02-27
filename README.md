@@ -1,43 +1,44 @@
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ##
-<h1 align="center"> Hola  I'm 
-	<span color="blue">Sudhanshu
+<h1 align="center"> Hello Fellow 
+	<span color="blue"> Coders
 		<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px">
 	</span>
 </h1>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
 
 
-<!-- About Me -->
+<!-------------------------------------------------------------------------------------------------------------About Me-------------------------------------------------------------------------------------------------------------------->
  <h1>
 	 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35px"> About Me:
  </h1>
  
  <span align="right" position="absolute">
 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" width="350px" height="250px" /> 
-	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Full+Stack+Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
  </span>
 
-<p> Hi, I'm Sudhanshu Saini, a Full Stack Web Developer. As a passionate contributor to open source, I have  actively participated in GSSoC'24-Extended, Hacktoberfest 2024 and SWOC-25.
-</p>
+<p> Hi, I'm Sudhanshu Saini, a Full Stack Web Developer. As a passionate contributor to open source, I have  actively participated in GSSoC'24-Extended, Hacktoberfest 2024 and SWOC-25. </p>
 <br>
  
 - 🌱 I’m currently learning: Full Stack Web Development from Apna College.
 - 😄 Pronouns: (He/Him)
 - 👯 I’m looking to collaborate on Front-End Web-Development Projects.
-- 📫 How to reach me:  <a href="mailto:sainisudhanshu389@gmail.com " target="_blank">Mail Me</a> Or Connect on  <a href="https://www.linkedin.com/in/sudhanshusaini24" 		 
-       target="_blank">Linked  In</a>
+- 📫 How to reach me:  <a href="mailto:sainisudhanshu389@gmail.com " target="_blank">Mail Me</a> Or Connect on  <a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">Linked  In</a>
 - 💬 Ask me about Web Development.
+- 🔭 I’m currently working on DSA (Java).
 <!--
 **Sudhanshu248/Sudhanshu248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 -- ⚡ Fun fact: ...
 -->
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br><br><br>
 
 
-<!-- Connect With Me -->
+<!--------------------------------------------------------------------------------------------------------Connect With Me------------------------------------------------------------------------------------------------------------------>
 <h1>
 	<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"> Connect with me :
 </h1>
