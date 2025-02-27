@@ -17,8 +17,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
  </span>
 
-<p> Hi, I'm Sudhanshu Saini, a Front-End Web Developer. Currently, I am learning Full-Stack Web Development from Apna College. As a passionate contributor to open source, I have 	 
-    actively participated in GSSoC'24-Extended and Hacktoberfest 2024.
+<p> Hi, I'm Sudhanshu Saini, a Full Stack Web Developer. As a passionate contributor to open source, I have  actively participated in GSSoC'24-Extended, Hacktoberfest 2024 and SWOC-25.
 </p>
 <br>
  
