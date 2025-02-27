@@ -77,8 +77,12 @@ Here are some ideas to get you started:
 		<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,jquery,react,redux&theme=dark"></td>
 	</tr>
 	<tr>
+		<td><strong>Frameworks</strong></td>
+		<td><img height=40 src = "https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark"></td>
+	</tr>
+	<tr>
 		<td><strong>Back-End Development</strong></td>
-		<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs,bootstrap&theme=dark"></td>
+		<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>DataBases</strong></td>
@@ -86,7 +90,7 @@ Here are some ideas to get you started:
 	</tr>
 	<tr>
 		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"></td>
+		<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"></td>
 	</tr>
 </table>
 <br>
