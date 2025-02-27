@@ -22,17 +22,17 @@
 <p> Hi, I'm Sudhanshu Saini, a Full Stack Web Developer. As a passionate contributor to open source, I have  actively participated in GSSoC'24-Extended, Hacktoberfest 2024 and SWOC-25. </p>
 <br>
  
-- 🌱 I’m currently learning: Full Stack Web Development from Apna College.
+- 🌱 I’m currently learning: DSA (Java).
 - 😄 Pronouns: (He/Him)
-- 👯 I’m looking to collaborate on Front-End Web-Development Projects.
+- 👯 I’m looking to collaborate on Full Stack Web-Development Projects.
 - 📫 How to reach me:  <a href="mailto:sainisudhanshu389@gmail.com " target="_blank">Mail Me</a> Or Connect on  <a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">Linked  In</a>
 - 💬 Ask me about Web Development.
-- 🔭 I’m currently working on DSA (Java).
 <!--
 **Sudhanshu248/Sudhanshu248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
--- ⚡ Fun fact: ...
+- 🔭 I’m currently working ...
+- ⚡ Fun fact: ...
 -->
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br><br><br>
