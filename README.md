@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 	</tr>
 	<tr>
 		<td><strong>Technical Skills</strong></td>
-		<td><img height=40 src = "https://skillicons.dev/icons?i=html,css&theme=dark"></td>
+		<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,redux&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Frameworks</strong></td>
