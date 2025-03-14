@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--------------------------------------------------------------------------------------------------------Connect With Me------------------------------------------------------------------------------------------------------------------>
 <details>
 <summary>
-	<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"> Connect with me :
+	Connect with me   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22px"> 
 </summary>
 	
 <div align="center">
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <!--------------------------------------------------------------------------------------------------Languages, Tools and Technologies------------------------------------------------------------------------------------------------------>
 <details>
 <summary>
-	<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies : 
+	Languages, Tools and Technologies  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="22px"> 
 </summary>
 	
 <br> 
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 <!----------------------------------------------------------------------------------------------------------------Github Stats------------------------------------------------------------------------------------------------------------->
 <details>
 <summary>
-	📈 Github Stats :
+	Github Stats 📈
 </summary>
 	
 <div align="center">
@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 <!------------------------------------------------------------------------------------------------------------GSSoC'24-Extd Badges--------------------------------------------------------------------------------------------------------->
 <details>
 <summary>
-	🏅 GSSoC'24-Extd Digital Badges : 
+	GSSoC'24-Extd Digital Badges  🏅 
 </summary>
 	
 <br>
@@ -191,7 +191,7 @@ Here are some ideas to get you started:
 <!------------------------------------------------------------------------------------------------------------Hacktoberfest Badges---------------------------------------------------------------------------------------------------------->
 <details>
 <summary>
-	🏅 Hacktoberfest Digital Badges : 
+	Hacktoberfest Digital Badges 🏅 
 </summary>
 
 [![An image of @sudhanshu248's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu248)](https://holopin.io/@sudhanshu248)
