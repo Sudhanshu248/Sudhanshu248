@@ -36,36 +36,42 @@ Here are some ideas to get you started:
 
 
 <!--------------------------------------------------------------------------------------------------------Connect With Me------------------------------------------------------------------------------------------------------------------>
-<h1>
-	<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"> Connect with me :
-</h1>
+<details>
+<summary>
+	<h2>
+		<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"> Connect with me :
+	</h2>
+</summary>
 <div align="center">
 	<a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">
-		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin 		 logo" />
+		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo" />
 	</a>
 	<a href="https://discord.gg/jA9RBjdS" target="_blank">
-		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord 		 logo"  />
+		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo"  />
 	</a>
 	<a href="https://t.me/Sudhanshu_Saini" target="_blank">
-		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="30" alt="telegram 		 logo"  />
+		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="30" alt="telegram logo"  />
 	</a>
 	<a href="mailto:sainisudhanshu389@gmail.com " target="_blank">
-		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"  		 />
+		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"/>
 	</a>
 	<a href="https://www.leetcode.com/sudhanshusaini_24 " target="_blank">   
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="25" alt="leetcode 		 logo"  />
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="25" alt="leetcode logo"  />
 	</a>
 </div>
+</details>
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 <!--------------------------------------------------------------------------------------------------Languages, Tools and Technologies------------------------------------------------------------------------------------------------------>
-###
 <details>
 <summary> 
-	<h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies :
-	</h3>
+	<h2>
+		<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies : 
+	</h2>
 </summary>
+<br> 
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
@@ -98,7 +104,10 @@ Here are some ideas to get you started:
 
 
 <!----------------------------------------------------------------------------------------------------------------Github Stats------------------------------------------------------------------------------------------------------------->
-<h1> 📈 Github Stats :</h1>
+<details>
+<summary>
+	<h2> 📈 Github Stats :</h2>
+</summary>
 <div align="center">
 	<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudhanshu248&theme=tokyonight">
 	<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudhanshu248&theme=tokyonight">
@@ -117,12 +126,17 @@ Here are some ideas to get you started:
  	<br><br>
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshu248&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false" height="250" alt="activity-graph graph"  />
 </div>
+</details>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br><br>
 
 
 <!------------------------------------------------------------------------------------------------------------GSSoC'24-Extd Badges--------------------------------------------------------------------------------------------------------->
-<h1>🏅 GSSoC'24-Extd Digital Badges : </h1>
+<details>
+	<summary>
+		<h2>🏅 GSSoC'24-Extd Digital Badges : </h2>
+	</summary>
+<br>
 <table>
 	<strong >Girl Script Summer of Code-2024 Extended</strong>
 		<tr align="center" >
@@ -170,6 +184,7 @@ Here are some ideas to get you started:
                     	</td>
           	</tr>
  </table>
+</details>
  <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <br>
 
