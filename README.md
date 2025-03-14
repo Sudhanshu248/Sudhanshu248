@@ -7,9 +7,9 @@
 
 
 <!-------------------------------------------------------------------------------------------------------------About Me-------------------------------------------------------------------------------------------------------------------->
- <h1>
+ <h2>
 	 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35px"> About Me:
- </h1>
+ </h2>
  
  <span align="right" position="absolute">
 	<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" width="350px" height="250px" /> 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--------------------------------------------------------------------------------------------------------Connect With Me------------------------------------------------------------------------------------------------------------------>
 <details>
 <summary>
-	Connect with me   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22px"> 
+	Connect with me   &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20px"> 
 </summary>
 	
 <div align="center">
@@ -59,14 +59,13 @@ Here are some ideas to get you started:
 	</a>
 </div>
 </details>
-
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 <!--------------------------------------------------------------------------------------------------Languages, Tools and Technologies------------------------------------------------------------------------------------------------------>
 <details>
 <summary>
-	Languages, Tools and Technologies  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="22px"> 
+	Languages, Tools and Technologies  &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="22px"> 
 </summary>
 	
 <br> 
@@ -106,6 +105,7 @@ Here are some ideas to get you started:
 <summary>
 	Github Stats 📈
 </summary>
+<br>
 	
 <div align="center">
 	<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudhanshu248&theme=tokyonight">
@@ -193,10 +193,12 @@ Here are some ideas to get you started:
 <summary>
 	Hacktoberfest Digital Badges 🏅 
 </summary>
+<br><br>
 
 [![An image of @sudhanshu248's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu248)](https://holopin.io/@sudhanshu248)
 </details>
  <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<br><br>
 
 
 <!-----------------------------------------------------------------------------------------------------------------Profile Views------------------------------------------------------------------------------------------------------------>
