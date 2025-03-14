@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 ###
 <details>
 <summary> 
-	<h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies :
-	</h1>
+	<h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies :
+	</h3>
 </summary>
 <table>
 	<tr>
