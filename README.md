@@ -38,10 +38,9 @@ Here are some ideas to get you started:
 <!--------------------------------------------------------------------------------------------------------Connect With Me------------------------------------------------------------------------------------------------------------------>
 <details>
 <summary>
-	<h2>
-		<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"> Connect with me :
-	</h2>
+	<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"> Connect with me :
 </summary>
+	
 <div align="center">
 	<a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">
 		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo" />
@@ -66,12 +65,12 @@ Here are some ideas to get you started:
 
 <!--------------------------------------------------------------------------------------------------Languages, Tools and Technologies------------------------------------------------------------------------------------------------------>
 <details>
-<summary> 
-	<h2>
-		<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies : 
-	</h2>
+<summary>
+	<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages, Tools and Technologies : 
 </summary>
+	
 <br> 
+
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
@@ -105,8 +104,9 @@ Here are some ideas to get you started:
 <!----------------------------------------------------------------------------------------------------------------Github Stats------------------------------------------------------------------------------------------------------------->
 <details>
 <summary>
-	<h2> 📈 Github Stats :</h2>
+	📈 Github Stats :
 </summary>
+	
 <div align="center">
 	<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudhanshu248&theme=tokyonight">
 	<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudhanshu248&theme=tokyonight">
@@ -131,10 +131,12 @@ Here are some ideas to get you started:
 
 <!------------------------------------------------------------------------------------------------------------GSSoC'24-Extd Badges--------------------------------------------------------------------------------------------------------->
 <details>
-	<summary>
-		<h2>🏅 GSSoC'24-Extd Digital Badges : </h2>
-	</summary>
+<summary>
+	🏅 GSSoC'24-Extd Digital Badges : 
+</summary>
+	
 <br>
+	
 <table>
 	<strong >Girl Script Summer of Code-2024 Extended</strong>
 		<tr align="center" >
@@ -189,7 +191,7 @@ Here are some ideas to get you started:
 <!------------------------------------------------------------------------------------------------------------Hacktoberfest Badges---------------------------------------------------------------------------------------------------------->
 <details>
 <summary>
-	<h2>🏅 Hacktoberfest Digital Badges : </h2>
+	🏅 Hacktoberfest Digital Badges : 
 </summary>
 
 [![An image of @sudhanshu248's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu248)](https://holopin.io/@sudhanshu248)
