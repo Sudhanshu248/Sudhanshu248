@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 
 <!--------------------------------------------------------------------------------------------------------Connect With Me------------------------------------------------------------------------------------------------------------------>
 <!-- </details> -->
-<summary>
+<br>
+<h1>
 	Connect with me   &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20px"> 
-</summary>
+</h1>
 	
 <div align="center">
 	<a href="https://www.linkedin.com/in/sudhanshusaini24" target="_blank">
@@ -64,9 +65,10 @@ Here are some ideas to get you started:
 
 <!--------------------------------------------------------------------------------------------------Languages, Tools and Technologies------------------------------------------------------------------------------------------------------>
 <!-- </details> -->
-<summary>
+<br>
+<h1>
 	Languages, Tools and Technologies  &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="22px"> 
-</summary>
+</h1>
 	
 <br> 
 
@@ -102,9 +104,10 @@ Here are some ideas to get you started:
 
 <!----------------------------------------------------------------------------------------------------------------Github Stats------------------------------------------------------------------------------------------------------------->
 <!-- </details> -->
-<summary>
+<br>
+<h1>
 	Github Stats 📈
-</summary>
+</h1>
 <br>
 	
 <div align="center">
@@ -131,9 +134,10 @@ Here are some ideas to get you started:
 
 <!------------------------------------------------------------------------------------------------------------GSSoC'24-Extd Badges--------------------------------------------------------------------------------------------------------->
 <!-- </details> -->
-<summary>
+<br>
+<h1>
 	GSSoC'24-Extd Digital Badges  🏅 
-</summary>
+</h1>
 	
 <br>
 	
@@ -190,9 +194,10 @@ Here are some ideas to get you started:
 
 <!------------------------------------------------------------------------------------------------------------Hacktoberfest Badges---------------------------------------------------------------------------------------------------------->
 <!-- </details> -->
-<summary>
+<br>
+<h1>
 	Hacktoberfest Digital Badges 🏅 
-</summary>
+</h1>
 <br><br>
 
 [![An image of @sudhanshu248's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshu248)](https://holopin.io/@sudhanshu248)
