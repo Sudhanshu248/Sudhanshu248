@@ -205,9 +205,8 @@ Here are some ideas to get you started:
 <summary>
 	Dev Display Badge 🏅 
 </summary>
-<br><br>
 
-<img src="https://github.com/Sudhanshu248/Sudhanshu248/blob/main/DevPioneer.gif" alt="Dev Pioneer Badge" width="80">
+<img src="https://github.com/Sudhanshu248/Sudhanshu248/blob/main/DevPioneer.gif" alt="Dev Pioneer Badge" width="300">
 </details>
 
  <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
